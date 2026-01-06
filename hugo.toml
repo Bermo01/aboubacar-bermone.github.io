@@ -1,7 +1,3 @@
 baseURL = "https://aboubacar-bermone.github.io/"
 languageCode = "fr-fr"
 title = "Aboubacar Bermone"
-theme = "ananke"
-
-[params]
-  description = "Étudiant ingénieur en génie électrique et électronique – ePortfolio"
